@@ -1,4 +1,7 @@
-You need to run the backend with mongodb
+Readme
+--------------
+
+You need to run the backend:
 $ node server.js
 
 And the frontend:
